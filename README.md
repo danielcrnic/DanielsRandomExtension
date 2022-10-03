@@ -1,4 +1,4 @@
-# danielsrandomextension README
+# Daniel's Random Extension - VS Code Extension
 Daniel's Random Extension is an extension for VS Code with small features to make development a bit faster/easier. 
 
 ## Extension Settings
